@@ -55,7 +55,7 @@ body {
 }
 
 #sidebar img {
-	width: 125px;
+	width: 250px;
 	position: relative;
 	display: block;
 	margin: 0 auto;
@@ -88,6 +88,10 @@ body {
 #main .inner {
 	text-align: left;
 	padding-top: 10px;
+}
+
+.title a {
+	font-size: 1.5rem;
 }
 
 
